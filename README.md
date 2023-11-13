@@ -2,9 +2,6 @@ Parallel Primes Project
 
 This is the first project for my operating systems course
 
-WARNING: Before running the code, the files with exe at the end are meant to be run on windows with a c compiler,
-         the files without the exe are meant to be run in a linux operating system.
-
 This program counts the number of prime numbers in a specified range.
 
 Some useful information. For a C to vs code install guide go here https://www.freecodecamp.org/news/how-to-write-and-run-c-cpp-code-on-visual-studio-code/ 
