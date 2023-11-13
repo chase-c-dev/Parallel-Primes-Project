@@ -13,6 +13,7 @@ On linux type ./filename
 Keep in mind file name means the filename without the .c extension
 
 What Does This Project Do?
+  
   This program counts the number of prime numbers in a given range.
   
   What makes this program unique is that it takes a file, countprimes which when really large ranges are given runs very slow.
